@@ -5,6 +5,8 @@ body{
 	border-top: 5px solid #222222;
 	margin: 30px;
 	background-color: #F6F6F6;
+	margin-right: 50px;
+	margin-left: 50px;
 }
 header{
 	padding-top: 20px;
@@ -13,7 +15,7 @@ header{
 p {
 	font-family: sans-serif;
 }
-img {
+img.float {
  	float:right;
  	margin: 10px 0 10px 20px;
     border: 3px
@@ -24,4 +26,11 @@ footer{
 	padding-top: 20px;
 	text-align: center
 }
- 	
+span{
+	font-style: italic;
+	font-size: 14px
+}
+img.portfolio{
+	float: center;
+	border: 5px solid #000;
+}
