@@ -1,2 +1,23 @@
+div #container{
+}
 
+h1{
+	font-weight: bold;
+	font-size: 24px;
+	color: #f9e42e
+}
+h2{
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
 
+h3{
+	font-weight: bold;
+	font-size: 12px;
+	background-color: #f9e42e;
+	border: 5px
+}
+section .benefits{
+	background-color: #f0efef;
+}
