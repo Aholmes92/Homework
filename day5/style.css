@@ -1,0 +1,125 @@
+#container{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+header{
+	background-color: #033048;
+	padding: 10px;
+	margin: 0px auto;
+}
+h1{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 'Extra-bold';
+	font-size: 24px;
+	color: white;
+	padding-left: 70px;
+}
+table{
+	border-spacing: 40px 0px;
+	padding-left: 250px;
+}
+
+header a{
+	font-family: "Open Sans", sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+	color: #f9e42e;
+}
+
+#first{
+	float;left;
+	background-color: #f0efef;
+    margin: 0px auto;
+    padding: 10px 310px 20px 50px;
+}
+
+#categories{
+	float: right;
+	width: 120px;
+	padding: 0px 0px 0px 0px;
+}
+
+#title{
+	clear: both;
+	font-family: 'Open sans', sans-serif;
+	font-size: 20px;
+	font-weight: 'light';
+	color: #033048;
+	text-align: left;
+	padding-left: 2px;
+}
+
+.image{
+	width: 450px;
+}
+
+.paragraph{
+	font-family: 'Open sans', sans-serif;
+	font-weight: 'light';
+	color: #606161;
+}
+
+.read{
+	text-align: right;
+	font-family: 'Open sans', sans-serif;
+	font-weight: bold;
+	color: #033048;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h5{
+	font-family: 'Open sans', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.ad{
+	font-family: 'Open sans', sans-serif;
+	font-weight: 'light';
+	color: #033048;
+}
+
+#signup{
+	clear: both;
+	background-color: #f9e42e;
+	color: white;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 18px;
+}
+.button{
+	text-decoration: none;
+	color: white;
+	font-weight: 'Extra-bold';
+	font-size: 12px;
+	border-radius: 5px;
+	background-color: #033048;
+	padding: 5px 40px;
+}
+
+footer h1{
+	text-align: center;
+	color: #f9e42e;
+	font-weight: 'Extra-bold';
+	font-size: 24px;
+	padding-right: 50px
+}
+footer{
+	color: #606161;
+	background-color: #121212;
+	padding: 10px 50px;
+	text-align: center;
+}
+
+#facebook{
+	padding-left: 30px;
+}
+
+#copy{
+	color: #606161;
+	padding-bottom: 30px;
+}
