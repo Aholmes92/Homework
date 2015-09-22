@@ -28,20 +28,26 @@ header a{
 }
 
 #first{
-	float;left;
+	float: left;
 	background-color: #f0efef;
-    margin: 0px auto;
-    padding: 10px 310px 20px 50px;
+    width: 500px;
+    padding: 20px 100px 50px 50px;
 }
 
 #categories{
 	float: right;
+	background-color: #f0efef;
 	width: 120px;
-	padding: 0px 0px 0px 0px;
+	padding: 20px 43px 10px 0px;
+}
+
+#adunit{
+	width: 150px;
+    height: 423px;
+    padding-bottom: 424px;
 }
 
 #title{
-	clear: both;
 	font-family: 'Open sans', sans-serif;
 	font-size: 20px;
 	font-weight: 'light';
